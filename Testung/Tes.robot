@@ -12,6 +12,7 @@ ${APPIUM_SERVER1}    http://127.0.0.1:4723/wd/hub
 *** Test Cases ***
 hif
     reddy.Hi
+    hi
 
 
 
