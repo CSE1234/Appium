@@ -83,7 +83,8 @@ Hi
         sleep  1s
         click element  //android.view.View[@index='1']/android.view.View[@index='0']/android.view.View[@index='0']/android.view.View[@index='0']/android.view.View[@index='4']/android.view.View[@index='0']
 
-
+        #click element  //android.view.View[@index='1']/android.view.View[@index='0']/android.view.View[@index='0']/android.view.View[@index='2']/android.view.View[@index='1']
+        #scroll down
 
 
 
